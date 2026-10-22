@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maqamlab.vercel.app/sitemap.xml
